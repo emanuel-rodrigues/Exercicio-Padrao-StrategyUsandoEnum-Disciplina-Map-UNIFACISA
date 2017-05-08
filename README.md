@@ -1,0 +1,2 @@
+# ExercicioStrategyComEnum
+primeiro commit
